@@ -1,4 +1,4 @@
-#include <iostream> // через цикл for
+#include <iostream> // целые числа в сточку через пробел. через цикл for
 using namespace std;
 
 int main() {
@@ -10,7 +10,7 @@ int main() {
 
 
 
-#include <iostream> // через цикл while
+#include <iostream> // целые числа в сточку через пробел. через цикл while
 using namespace std;
 
 int main() {
@@ -25,7 +25,7 @@ int main() {
 
 
 
-#include <iostream> // через цикл do while 
+#include <iostream> // целые числа в сточку через пробел. через цикл do while 
 using namespace std;
 
 int main() {
